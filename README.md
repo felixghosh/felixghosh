@@ -1,5 +1,5 @@
 - Hi, I’m Felix Ghosh
-- I’m interested in embedded systems, microcontrollers, operating systems, and graphics programming.
+- I’m interested in embedded systems, microcontrollers, operating systems, network programming, and graphics programming.
 - Currently learning about socket and network programming in C.
 - How to reach me: felix.ghosh@gmail.com
 
