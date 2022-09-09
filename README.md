@@ -1,6 +1,6 @@
 - Hi, I’m Felix Ghosh
 - I’m interested in embedded systems, microcontrollers, operating systems, compilers, network programming, and graphics programming.
-- Currently learning about OS programming, and embedded systems design.
+- Currently learning about OpenGL programming, and VLSI design.
 - How to reach me: felix.ghosh@gmail.com
 
 <!---
